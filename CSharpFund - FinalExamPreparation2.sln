@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ActivationKeys", "P01.ActivationKeys\P01.ActivationKeys.csproj", "{902784E2-B548-452A-A651-060ABC26747B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.ActivationKeys", "P01.ActivationKeys\P01.ActivationKeys.csproj", "{902784E2-B548-452A-A651-060ABC26747B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.EmojiDetector", "P02.EmojiDetector\P02.EmojiDetector.csproj", "{7D510B8C-B66A-4528-B11E-CBAE0C8FC367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.EmojiDetector", "P02.EmojiDetector\P02.EmojiDetector.csproj", "{7D510B8C-B66A-4528-B11E-CBAE0C8FC367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.HeroesOfCodeAndLogicVII", "P03.HeroesOfCodeAndLogicVII\P03.HeroesOfCodeAndLogicVII.csproj", "{99EB8004-C82C-44C3-85B4-7E0ADAEC34BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7D510B8C-B66A-4528-B11E-CBAE0C8FC367}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D510B8C-B66A-4528-B11E-CBAE0C8FC367}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D510B8C-B66A-4528-B11E-CBAE0C8FC367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EB8004-C82C-44C3-85B4-7E0ADAEC34BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EB8004-C82C-44C3-85B4-7E0ADAEC34BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EB8004-C82C-44C3-85B4-7E0ADAEC34BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EB8004-C82C-44C3-85B4-7E0ADAEC34BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
